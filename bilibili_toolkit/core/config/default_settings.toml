@@ -1,0 +1,2 @@
+LOGPATH = "@format {env[HOME]}/.bilibili_toolkit/log"
+LOGLEVEL = "DEBUG"
